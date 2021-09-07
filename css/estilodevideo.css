@@ -36,7 +36,7 @@ section{
 }
 
 #primero{
-	width: 45%;
+	width: 50%;
 	height: 650px;
 	float: left;
 	background-color: #336699;
@@ -44,7 +44,7 @@ section{
 }
 
 #segundo{
-	width: 55%;
+	width: 50%;
 	height: 650px;
 	background-color: #336699;
 	float: right;
