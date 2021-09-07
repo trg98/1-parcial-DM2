@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{background-color:#FFFFFF;
+font-family: 'Roboto', sans-serif;
+font-family: 'Press Start 2P', cursive; 
+}
+
+main{
+	width: 90%;
+	height: 700px;
+	background-size:cover;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	padding:1%;
+	width: 100%;
+	height: 60px;
+	background-color: #9999CC;
+	
+}
+
+
+section{
+	width: 65%;
+	height: 650px;
+	
+	float: left;
+}
+
+#primero{
+	width: 45%;
+	height: 650px;
+	float: left;
+	background-color: #336699;
+	padding:1%;
+}
+
+#segundo{
+	width: 55%;
+	height: 650px;
+	background-color: #336699;
+	float: right;
+	padding:1%;
+}
+
+.titular{
+ 	font-family: 'Press Start 2P', cursive;
+ 	color: white;
+ 	font-weight:lighter;
+ 	font-size:40px;
+ 	text-align:center;
+ }
+
+
+
+.titulo{
+ 	font-family: 'Press Start 2P', cursive;
+ 	color: #FFFF00;
+ 	font-size:15px;
+ }
+
+.parrafo{
+	font-family: 'Roboto', sans-serif;
+    color: #f7f1e3;
+	font-size:13px;
+}
+
+.parrafobold{
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+    color: #f7f1e3;
+	font-size:15px;
+}
+
+.resaltar{
+	color:yellow;
+	font-size:;
+}
+
+aside{
+	width: 35%;
+	height: 650px;
+	background-color:#000000;
+	float: right;
+	padding:1%;
+	
+}
+
+#scroll1{
+	overflow:scroll;
+	overflow-x: hidden;
+	height:240px;
+}
+
+
+
+footer{
+	width: 100%;
+	height: 50px;
+	background-color: #9999CC;
+	clear: both;
+}
+
+ul.footer_horizontal1{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	float:left; 
+}
+
+ul.footer_horizontal1 li{
+	display:inline;
+}
+
+ul.footer_horizontal1 li a{
+	margin-left:15px;
+	margin-top:10px;
+	width:500px;
+	height:30px;
+	line-height:30px;
+	background-color:#000000;
+	display:inline-block;
+	text-align:center;
+	color:white;
+	text-decoration:none;
+	font-weight:normal;
+	font-size:15px;
+	border-radius:5px;
+
+}
+
+ul.footer_horizontal1 li a:hover{
+	background-color:#FF0000;
+
+}
+ 
+.iconos {
+	margin-top:10px;
+	margin-left:15px;
+	float:left;
+	border-radius:5px;
+}
+
+
+.imagen {
+	float:left;
+	height:600px;
+}
+
+
+.fotografía{
+	margin-top:10px;
+	 width:180px;
+	 height:180px;
+	 border-radius:10px;
+}
+
+
+.fotografía2{
+ 	 width:300px;
+	 height:300px;
+
+}
+
+
+
+
+
+/*MICROSITIO*/ 
+
+section-1{
+	width: 100%;
+	height: 650px;
+	
+	float: left;
+}
+
+#primerob{
+	width:20%;
+	height: 650px;
+	float: left;
+	background-color: #336699;
+	padding:1%;
+}
+
+#segundob{
+	width:36%;
+	height: 650px;
+	background-color: #336699;
+	float: left;
+	padding:1%;
+}
+
+#tercero{
+	float:right;
+	width:44%;
+	height: 650px;
+	background-color:#000000;
+	padding:1%;
+}
+
+
+.PDF{
+	width:100%; 
+	height:550px;
+
+}
+
+
+.fuente{
+	font-family: 'Press Start 2P', cursive;
+	font-size:15px;
+	color:#FFFFFF;
+}
+
+
+.fuente1{
+	font-family: 'Roboto', sans-serif;
+	color:white;
+	font-size:20px;
+}
+
+ul.footer_horizontal{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	float:left; 
+}
+
+ul.footer_horizontal li{
+	display:inline;
+}
+
+ul.footer_horizontal li a{
+	margin-left:15px;
+	margin-top:10px;
+	width:200px;
+	height:30px;
+	line-height:30px;
+	background-color:#000000;
+	display:inline-block;
+	text-align:center;
+	color:white;
+	text-decoration:none;
+	font-weight:normal;
+	font-size:15px;
+	border-radius:5px;
+
+}
+
+ul.footer_horizontal li a:hover{
+	background-color:#FF0000;
+
+}
