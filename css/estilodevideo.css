@@ -6,9 +6,19 @@
 	box-sizing: border-box;
 }
 
-body{background-color:#FFFFFF;
+body{
 font-family: 'Roboto', sans-serif;
 font-family: 'Press Start 2P', cursive; 
+background: linear-gradient(
+		to top,
+		yellow,
+		blue 250px,
+		red 
+	); 
+
+
+
+
 }
 
 main{
